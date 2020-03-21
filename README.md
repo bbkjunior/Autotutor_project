@@ -10,8 +10,13 @@ After reading the recommended texts the student is supposed to evaluate which te
 # How to launch the service
 
 cd autotuor_api
+
 docker-compose up -d
+
 cd ..
+
 cd autotutor_web
+
 docker-compose up -d
+
 The interface will become available at the port 8000
