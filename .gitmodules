@@ -1,0 +1,3 @@
+[submodule "autotutor_api"]
+	path = autotutor_api
+	url = https://github.com/NatalieIsupova/autotutor_api.git
