@@ -20,3 +20,9 @@ cd autotutor_web
 docker-compose up -d
 
 The interface will become available at the port 8000
+
+# Contacts
+Nikolay Babakov bbkhse@gmail.com
+
+Natalya Isupova nata_isupova@inbox.ru
+
